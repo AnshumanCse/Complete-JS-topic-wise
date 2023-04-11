@@ -30,5 +30,8 @@ else{
     console.log("aapki age 18 se jada hai:")
 }
 
+// Loops in js (for, for in, for of, while, do while)
+
+let a;
 
 
