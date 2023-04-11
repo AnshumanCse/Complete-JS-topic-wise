@@ -19,6 +19,16 @@ console.log(student);
 console.log(student.class);   //we can access indivisually like class only and name using (object name.value).
 
 
+// IF ELSE statement in js
+
+let age = prompt("aapki age kya hai ??");
+if(age<=18){
+    console.log("aapki umar 18 se kAM hai,")
+
+}
+else{
+    console.log("aapki age 18 se jada hai:")
+}
 
 
 
