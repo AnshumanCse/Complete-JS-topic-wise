@@ -35,3 +35,13 @@ else{
 let a;
 
 
+
+
+// Like exception
+let a;
+a = 5;
+a = "nimbu";
+console.log(a)
+
+
+
