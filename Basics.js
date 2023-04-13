@@ -40,8 +40,20 @@ let a;
 // Like exception
 let a;
 a = 5;
-a = "nimbu";
+a = "ansh";
 console.log(a)
+
+// Function in javascript;
+
+const numOP = (a,b) => {
+    return (a+b)
+}                       //defind a function that adding two numbers
+
+let x = 10;
+let y = 12;
+let z = prompt("enter the number:");
+// z = toString;
+console.log(numOP(x,y)/2)
 
 
 
